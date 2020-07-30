@@ -11,3 +11,7 @@ A Simple Template For Cookey
 
 ## Step 3
 `node .`
+
+### If Using Run On Replit
+
+put `node .` in the run config and press run
